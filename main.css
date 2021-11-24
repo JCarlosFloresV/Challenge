@@ -140,6 +140,14 @@ line-height: 1.3em;
   margin: 50px;
   text-align: center;
 }
+.SextoP {
+  padding: 25px;
+  margin: 50px;
+  text-align: center;
+}
+.SextoP p,h2{
+  text-align: left;
+}
 footer{
   width: 100%;
   padding: 10px 0px;
